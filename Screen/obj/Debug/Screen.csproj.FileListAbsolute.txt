@@ -1,0 +1,7 @@
+C:\Users\lenik\source\repos\Screen\Screen\bin\Debug\Screen.exe.config
+C:\Users\lenik\source\repos\Screen\Screen\bin\Debug\Screen.exe
+C:\Users\lenik\source\repos\Screen\Screen\bin\Debug\Screen.pdb
+C:\Users\lenik\source\repos\Screen\Screen\obj\Debug\Screen.csproj.AssemblyReference.cache
+C:\Users\lenik\source\repos\Screen\Screen\obj\Debug\Screen.csproj.CoreCompileInputs.cache
+C:\Users\lenik\source\repos\Screen\Screen\obj\Debug\Screen.exe
+C:\Users\lenik\source\repos\Screen\Screen\obj\Debug\Screen.pdb
